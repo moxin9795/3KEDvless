@@ -7,7 +7,7 @@ let userID = '6cf0d91a-e56e-411f-9077-2af2cb349dd6';
 
 const proxyIPs = ['23.162.136.169'];
 
-let proxyIP = 199.15.77.73:26459;
+let proxyIP = [199.15.77.73:26459];
 
 let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
